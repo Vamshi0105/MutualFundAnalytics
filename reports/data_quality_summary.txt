@@ -1,0 +1,14 @@
+Bluestock Capstone
+
+Data Quality Summary
+
+01_fund_master.csv -> Rows=40, Columns=15, Missing=0, Duplicates=0
+02_nav_history.csv -> Rows=46000, Columns=3, Missing=0, Duplicates=0
+03_aum_by_fund_house.csv -> Rows=90, Columns=5, Missing=0, Duplicates=0
+04_monthly_sip_inflows.csv -> Rows=48, Columns=6, Missing=12, Duplicates=0
+05_category_inflows.csv -> Rows=144, Columns=3, Missing=0, Duplicates=0
+06_industry_folio_count.csv -> Rows=21, Columns=6, Missing=0, Duplicates=0
+07_scheme_performance.csv -> Rows=40, Columns=19, Missing=0, Duplicates=0
+08_investor_transactions.csv -> Rows=32778, Columns=13, Missing=0, Duplicates=0
+09_portfolio_holdings.csv -> Rows=322, Columns=8, Missing=0, Duplicates=0
+10_benchmark_indices.csv -> Rows=8050, Columns=3, Missing=0, Duplicates=0
