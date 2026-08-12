@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Run the pipeline
 ```bash
-python scripts/run_pipeline.py
+python scripts/run_ETL.py
 ```
 
 ## Launch the dashboard
